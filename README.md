@@ -1,6 +1,6 @@
-# 🚀 Desenvolvimento de Backend com RESTful e GraphQL
+# Desenvolvimento de Backend com RESTful e GraphQL
 
-## 📜 Projeto
+## Projeto
 
 O objetivo deste projeto é desenvolver o **backend** de uma aplicação web completa, utilizando duas abordagens principais: **RESTful** e **GraphQL**. A aplicação será robusta, envolvendo validações de dados, segurança com **JSON Web Token (JWT)** e o uso de um banco de dados para implementar relacionamentos entre as entidades.
 
@@ -8,13 +8,13 @@ O objetivo deste projeto é desenvolver o **backend** de uma aplicação web com
 - **Etapa 2**: Simplificação da aplicação utilizando **GraphQL**, com pelo menos uma entidade exposta via GraphQL para demonstrar a flexibilidade na consulta de dados.
 
 
-## 🎯 Objetivos do Projeto
+## Objetivos do Projeto
 
 - **API RESTful Completa**: Criar endpoints para operações CRUD, garantindo validação de dados e relacionamento entre entidades.
 - **Segurança com JWT**: Implementar autenticação e autorização usando JWT para garantir que apenas usuários autenticados possam acessar recursos restritos.
 - **Simplificação com GraphQL**: Expor pelo menos uma entidade via GraphQL, demonstrando como simplificar consultas e integrar funcionalidades do sistema com este novo paradigma.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Backend**:
   - Node.js
@@ -27,11 +27,11 @@ O objetivo deste projeto é desenvolver o **backend** de uma aplicação web com
   - Git
   - Postman
 
-## 👨🏽‍🏫 Docente
+## Docente
 
 - **Samara Sonale Santos Sampaio**
 
-## 👤 Equipe do Projeto
+## Equipe do Projeto
 
 - **Henrique Albuquerque Araujo**
 - **Kevinn Berliet dos Santos Monteiro**
